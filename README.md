@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NickNapier11
-- 👀 I’m interested in Recruiting Technology professionals
-- 🌱 I’m currently learning the tech industry
-- 💞️ I’m looking to collaborate on exciting new positions
+- 👋 Hi, I’m Nicholas Napier
+- 👀 I’m interested in finding Software Engineers their next role to help enchance their role.
+- 🌱 I’m currently learning the tech industry.
+- 💞️ I’m looking to collaborate and find out more how a tech guru works.
 - 📫 How to reach me nick@haywardhawk.com
 
 <!---
